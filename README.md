@@ -1,4 +1,4 @@
-# alchemy-university
+# alchemy-university-the-basics
 
 ## JavaScript Basics (1.111 - 1.145)
 
